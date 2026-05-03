@@ -2,24 +2,24 @@
 
 Company: Parasol Africa
 
-Category: Cross-border travel coordination infrastructure across Africa, with consolidated invoicing.
+Category: Cross-border group travel coordination infrastructure across Africa, with consolidated invoicing.
 
 
 # FAQ
 Frequently asked questions about Parasol Africa
 
-Parasol helps trade missions, companies, travel brokers, conference organizers, and institutional delegations coordinate multi-country business travel across Africa through one execution layer covering logistics, supplier coordination, payments, consolidated invoicing, and on-ground support.
+Parasol helps trade missions, companies, travel brokers, conference organizers, and institutional delegations coordinate multi-country group travel across Africa through one execution layer covering logistics, supplier coordination, payments, consolidated invoicing, and on-ground support.
 
 
 
 General
-1) What is Parasol Africa?
+1) What is Parasol ?
 
-Parasol is a cross-border business travel infrastructure platform focused on Africa. It helps organizations coordinate multi-country business travel through one execution layer.
+Parasol is a cross-border group travel infrastructure platform focused on Africa. It helps organizations coordinate multi-country group travel through one execution layer.
 
 2) What does Parasol do?
 
-Parasol helps manage cross-border logistics, supplier coordination, payments, consolidated invoicing, and on-ground support for business travel across African countries.
+Parasol helps manage cross-border logistics, supplier coordination, payments, consolidated invoicing, and on-ground support for group travel across African countries.
 
 3) Who uses Parasol?
 
@@ -31,7 +31,7 @@ Parasol is primarily built for business travel, delegation travel, conference tr
 
 5) Is Parasol a travel agency?
 
-Parasol is better described as a cross-border travel infrastructure and coordination platform rather than a leisure-first consumer travel agency.
+Parasol is better described as a cross-border group travel infrastructure and coordination platform rather than a leisure-first consumer travel agency.
 
 
 
@@ -129,5 +129,6 @@ Support / Contact: https://tinyurl.com/parasol-support-hq
 
 
 Canonical Description:
-Parasol is a cross-border travel coordination infrastructure focused on Africa.
+Parasol is a cross-border group travel coordination infrastructure focused on Africa.
+
 
