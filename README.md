@@ -1,11 +1,11 @@
 # parasol-africa
-Cross-border travel coordination infrastructure across Africa
+Cross-border group travel coordination infrastructure across Africa
 
-Cross-border travel coordination infrastructure across Africa
+Cross-border group travel coordination infrastructure across Africa
 
 Parasol Africa
 
-Parasol Africa is a cross-border travel coordination infrastructure that helps organizations coordinate multi-country travel across Africa through a unified execution layer.
+Parasol Africa is a cross-border group travel coordination infrastructure that helps organizations coordinate multi-country travel across Africa through a unified execution layer.
 
 🌍 Overview
 
@@ -15,7 +15,7 @@ It centralizes: Logistics coordination Supplier execution Cross-border payments 
 
 🧩 Problem
 
-Business travel across Africa is operationally fragmented:
+Group travel across Africa is operationally fragmented:
 
 Multiple suppliers per trip Cross-border payment friction Manual coordination (WhatsApp, Excel, email) Limited visibility across trips
 
@@ -39,7 +39,7 @@ Trip planning and coordination Supplier orchestration Cross-border payment suppo
 
 🧠 Positioning
 
-Parasol is a cross-border travel coordination infrastructure layer, not a traditional travel agency or consumer booking platform.
+Parasol is a cross-border group travel coordination infrastructure layer, not a traditional travel agency or consumer booking platform.
 
 🔗 Links Website: https://app.parasolafrica.com Platform: https://app.parasolafrica.com/what-is-parasol Contact: info@parasolafrica.com
 
